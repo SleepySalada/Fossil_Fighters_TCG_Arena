@@ -1014,7 +1014,7 @@
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "2",
-    "Limitation": "Unlimited",
+    "Limitation": "Limited",
     "FP Cost": "None",
     "Status": "None",
     "Set": "A"
@@ -1489,7 +1489,7 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Limitation": "Unlimited",
+    "Limitation": "Limited",
     "FP Cost": "2",
     "Status": "None",
     "Set": "A"
@@ -1727,7 +1727,7 @@
         "name": "Seismo",
         "type": "Vivosaur",
         "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B08_Siesmo.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B08_Seismo.png",
         "isHorizontal": false
       }
     },
@@ -2377,7 +2377,7 @@
         "name": "BB Bandit's Surprise!",
         "type": "Action",
         "cost": "2",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B34_BB%20Bandit's%20Suprise.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B34_BB_Bandit's%20Suprise.png",
         "isHorizontal": false
       }
     },
@@ -2386,7 +2386,7 @@
     "cost": "2",
     "Action": "Attack",
     "Trait": "BB Bandit",
-    "Limitation": "Unlimited",
+    "Limitation": "Limited",
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
@@ -2552,7 +2552,7 @@
         "name": "The Mothership",
         "type": "Action",
         "cost": "2",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/C/C00_The%20Mothership.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/C/C00_The_Mothership.png",
         "isHorizontal": false
       }
     },
@@ -3011,7 +3011,7 @@
     "cost": "",
     "Action": "None",
     "Trait": "Reptile",
-    "Limitation": "Unlimited",
+    "Limitation": "Non-Starter",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3236,7 +3236,7 @@
     "cost": "",
     "Action": "None",
     "Trait": "Aquatic, Altered",
-    "Limitation": "Limited",
+    "Limitation": "Banned",
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3711,7 +3711,7 @@
     "cost": "",
     "Action": "None",
     "Trait": "Boney",
-    "Limitation": "Unlimited",
+    "Limitation": "Limited",
     "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
@@ -3786,7 +3786,7 @@
     "cost": "",
     "Action": "None",
     "Trait": "L-Theropod, Altered",
-    "Limitation": "Unlimited",
+    "Limitation": "Non-Starter",
     "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
@@ -3886,7 +3886,7 @@
     "cost": "",
     "Action": "None",
     "Trait": "Boney",
-    "Limitation": "Unlimited",
+    "Limitation": "Limited",
     "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
@@ -4655,7 +4655,7 @@
     "cost": "3",
     "Action": "Attack",
     "Trait": "Machine",
-    "Limitation": "Unlimited",
+    "Limitation": "Limited",
     "FP Cost": "3",
     "Element": "Neutral",
     "Range": "Close",
@@ -7032,6 +7032,81 @@
     "Element": "",
     "Status": "",
     "FP Charge": "",
+    "Set": "F"
+  },
+  "F02": {
+    "id": "F02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Amargo",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F02_Amargo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Amargo",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Sauropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Long",
+    "Element": "Fire",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+  },
+  "F04": {
+    "id": "F04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Breme(F)",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F04_Breme.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Breme(F)",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Fire",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+  },
+  "F06": {
+    "id": "F06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "V-Raptor(F)",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F06_V_Raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "V-Raptor(F)",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Air",
+    "Status": "",
+    "FP Charge": "1",
     "Set": "F"
   }
 }
