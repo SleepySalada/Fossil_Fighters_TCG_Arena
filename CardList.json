@@ -7283,5 +7283,30 @@
     "Status": "",
     "FP Charge": "",
     "Set": "F"
+  },
+  "G01": {
+    "id": "G01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "S-Raptor",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/G/G08_S-Raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "S-Raptor",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Fire",
+    "Status": "Quicken, Enflame",
+    "FP Charge": "1",
+    "Set": "G"
   }
 }
