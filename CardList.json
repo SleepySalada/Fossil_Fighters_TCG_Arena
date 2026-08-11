@@ -7264,7 +7264,7 @@
     "isToken": false,
     "face": {
       "front": {
-        "name": "VMM",
+        "name": "VMM(F)",
         "type": "Action",
         "cost": "1",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F31_VMM.png",
@@ -7296,7 +7296,7 @@
         "isHorizontal": false
       }
     },
-    "name": "S-Raptor",
+    "name": "S-Raptor(G)",
     "type": "Vivosaur",
     "cost": 0,
     "Action": "",
