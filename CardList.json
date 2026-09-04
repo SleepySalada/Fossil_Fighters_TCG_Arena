@@ -7309,4 +7309,29 @@
     "FP Charge": "1",
     "Set": "G"
   }
-}
+},
+  "F31": {
+    "id": "F00",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Hunter",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://github.com/SleepySalada/Fossil_Fighters_TCG_Arena/blob/main/FossilFighterTCG_Cardpool/F/F00_Hunter.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Hunter",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  }
