@@ -7308,9 +7308,8 @@
     "Status": "Quicken, Enflame",
     "FP Charge": "1",
     "Set": "G"
-  }
 },
-  "F31": {
+  "F00": {
     "id": "F00",
     "isToken": false,
     "face": {
