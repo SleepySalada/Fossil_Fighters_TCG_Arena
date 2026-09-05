@@ -7333,5 +7333,480 @@
     "Status": "",
     "FP Charge": "",
     "Set": "F"
+},
+  "F15": {
+    "id": "F15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "U-Raptor G",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F15_U-Raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "U-Raptor G",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Fire",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+},
+  "F41": {
+    "id": "F41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Salto F",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F41_Salto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Salto F",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Sauropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Long",
+    "Element": "Earth",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+},
+  "F43": {
+    "id": "F43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tricera F,
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F43_Tricera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tricera F",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Ceratops",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+},
+  "F45": {
+    "id": "F45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cerato",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F45_Cerato.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cerato",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Air",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+},
+  "F47": {
+    "id": "F47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tryma",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F47_Tryma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tryma",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Earth",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+},
+  "F48": {
+    "id": "F48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Futabi F",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F48_Futabi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Futabi F",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "Aquatic",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "F"
+},
+  "F49": {
+    "id": "F49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Allo F",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F49_Allo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Allo F",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close
+    "Element": "Neutral
+    "Status": "",
+    "FP Charge": "2",
+    "Set": "F"
+},
+  "F21": {
+    "id": "F21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Holt",
+        "type": "Action",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F21_Holt.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Holt",
+    "type": "Action",
+    "cost": "0",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0,
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+ },
+  "F25": {
+    "id": "F25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Todd's Resolve",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F25_Todd's_Resolve.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Todd's Resolve",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+ },
+  "F26": {
+    "id": "F26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rupert's Rebellion",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F26_Rupert's_Revolution.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rupert's Rebellion",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "",
+    "Element": "",
+    "Status": "Enrage",
+    "FP Charge": "",
+    "Set": "F"
+ },
+  "F30": {
+    "id": "F30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dropping Fossil",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F30_Dropping_Fossil.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dropping Fossil",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F32": {
+    "id": "F32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mega Drill",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F32_Mega_Drill.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mega Drill",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Tool",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F34": {
+    "id": "F34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Digadig Chieftain",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F34_Digadiga_Chief.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Digadig Chieftain",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F37": {
+    "id": "F37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Emergency Kit",
+        "type": "Action",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F37_Emergency_Kit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Emergency Kit",
+    "type": "Action",
+    "cost": "0",
+    "Action": "Attack",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F39": {
+    "id": "F39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Tacky Idol",
+        "type": "Action",
+        "cost": "0",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F39_Tacky_Idol.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Tacky Idol",
+    "type": "Action",
+    "cost": "0",
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F40": {
+    "id": "F40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Capt. Travers",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F40_Capt._Travers.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Capt. Travers",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F22": {
+    "id": "F22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Samurai",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F44_Samurai.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Samurai",
+    "type": "Action",
+    "cost": "5",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "5",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F46": {
+    "id": "F46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Saurhead's Grit",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F46_Saurheads_Grit.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Saurhead's Grit",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
+  },
+  "F50": {
+    "id": "F50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Laurence",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F50_Laurence.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Laurence",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "F"
   }
 }
