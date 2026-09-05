@@ -7317,7 +7317,7 @@
         "name": "Hunter",
         "type": "Action",
         "cost": "3",
-        "image": "https://github.com/SleepySalada/Fossil_Fighters_TCG_Arena/blob/main/FossilFighterTCG_Cardpool/F/F00_Hunter.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/F/F00_Hunter.png",
         "isHorizontal": false
       }
     },
